@@ -11,7 +11,7 @@ import SwiftUI
 struct On_The_Trail_Watch_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RouteSelectionView()
         }
     }
 }

@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "84a0984829581f79b04d6afd68ad052665476f01471c5c5c8cc43a5fe4a06110"
+    }
+  ],
+  "containerPath" : "/Users/emily/Code/On-The-Trail/On-The-Trail.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "watchsimulator",
+      "sdk" : "watchsimulator11.2",
+      "sdkVariant" : "watchsimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/emily/Code/On-The-Trail/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Build/Products",
+      "pchPath" : "/Users/emily/Code/On-The-Trail/DerivedData/On-The-Trail/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

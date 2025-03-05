@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C947787365869ECB4A88B325135296CA975FAB14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C947787365869ECB4A88B325135296CA975FAB14" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E974A782-BD8E-41B5-B873-C73C81BA671A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C947787365869ECB4A88B325135296CA975FAB14" : "On-The-Trail\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "On-The-Trail",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "On-The-Trail.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EmiSadler\/on-the-trail.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C947787365869ECB4A88B325135296CA975FAB14"
+    }
+  ]
+}

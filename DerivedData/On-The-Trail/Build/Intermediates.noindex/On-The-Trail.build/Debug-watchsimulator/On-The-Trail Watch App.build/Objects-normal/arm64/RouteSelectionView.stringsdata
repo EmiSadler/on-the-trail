@@ -1,0 +1,32 @@
+{
+  "source": "/Users/emily/Code/On-The-Trail/On-The-Trail Watch App/RouteSelectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select Your Trail",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Head On The Trail!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

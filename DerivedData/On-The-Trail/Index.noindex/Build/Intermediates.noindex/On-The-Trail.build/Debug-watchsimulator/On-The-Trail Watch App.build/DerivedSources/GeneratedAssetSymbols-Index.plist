@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/emily/Code/On-The-Trail/On-The-Trail Watch App/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackground1</string>
+			<key>relativePath</key>
+			<string>./background-1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>background1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/emily/Code/On-The-Trail/On-The-Trail Watch App/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBlueFigure</string>
+			<key>relativePath</key>
+			<string>./blue-figure.imageset</string>
+			<key>swiftSymbol</key>
+			<string>blueFigure</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/emily/Code/On-The-Trail/On-The-Trail Watch App/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameFlagFrance</string>
+			<key>relativePath</key>
+			<string>./flag-france.imageset</string>
+			<key>swiftSymbol</key>
+			<string>flagFrance</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/emily/Code/On-The-Trail/On-The-Trail Watch App/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameFlagUk</string>
+			<key>relativePath</key>
+			<string>./flag-uk.imageset</string>
+			<key>swiftSymbol</key>
+			<string>flagUk</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
