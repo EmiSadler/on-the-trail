@@ -104,6 +104,7 @@ struct ContentView: View {
             HealthKitManager.shared.requestAuthorization { success, error in
                 if success {
                     print("HealthKit authorization granted")
+                    HealthKitManager.shared.fetchWalkingDistance()
                 } else if let error = error {
                     print("HealthKit authorization failed: \(error.localizedDescription)")
                 } else {

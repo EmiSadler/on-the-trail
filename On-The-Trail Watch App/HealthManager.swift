@@ -11,6 +11,11 @@ class HealthKitManager: ObservableObject {
     static let shared = HealthKitManager()
     private let healthStore = HKHealthStore()
     @Published var totalDistance: Double = 0.0
+    private var timer: Timer?
+    
+    init() {
+        startUpdatingDistance()
+    }
 
     // Request authorization with a completion handler
     func requestAuthorization(completion: @escaping (Bool, Error?) -> Void) {
@@ -26,6 +31,7 @@ class HealthKitManager: ObservableObject {
             DispatchQueue.main.async {
                 if success {
                     self.fetchWalkingDistance() // Fetch data immediately after authorization
+                    self.startUpdatingDistance()
                 }
                 completion(success, error) // Inform the caller of the result
             }
@@ -52,5 +58,13 @@ class HealthKitManager: ObservableObject {
         }
         
         healthStore.execute(query)
+    }
+    
+    func startUpdatingDistance() {
+        //  To get walking distance every 30 secs
+        timer?.invalidate()
+        timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: true) { _ in
+            self.fetchWalkingDistance()
+        }
     }
 }
