@@ -72,6 +72,8 @@ struct ContentView: View {
                     .scaledToFit()
                     .frame(width: 60, height: 60)
                     .position(x: CGFloat(progress) * 240 + 10, y: -2)
+                    .animation(.easeInOut(duration: 1), value: progress)
+
             }
             .frame(width: 200, height: 50)
             // Labels for start and end points

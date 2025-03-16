@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'On-The-Trail Watch App' in project 'On-The-Trail' (no dependencies)
-Target 'On-The-Trail Watch App' in project 'On-The-Trail' (no dependencies)

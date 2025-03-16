@@ -6,22 +6,22 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>28B687AB-D200-4514-B410-CFD65EB704D0</key>
+		<key>9C08FDE4-7AC4-4EEE-AA1D-DC1C2D3E7682</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BB276261-2751-47ED-8B18-F3F8E3719C61</string>
+			<string>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.05_19-25-10-+0000.xcresult</string>
+			<string>Run-On-The-Trail Watch App-2025.03.15_14-31-52-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -40,15 +40,15 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>On-The-Trail project</string>
@@ -59,74 +59,13 @@
 			<key>signature</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>762895510.33353198</real>
+			<real>763741912.33979404</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>28B687AB-D200-4514-B410-CFD65EB704D0</string>
-		</dict>
-		<key>7AD22D97-0C3A-4745-93CA-BC6E596F4089</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0F1BDBD2-EBDF-4815-8C5E-F1BE20D294CB</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.03_15-31-47-+0000.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>On-The-Trail project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>On-The-Trail Watch App</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>timeStartedRecording</key>
-			<real>762708707.72109497</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>uniqueIdentifier</key>
-			<string>7AD22D97-0C3A-4745-93CA-BC6E596F4089</string>
+			<string>9C08FDE4-7AC4-4EEE-AA1D-DC1C2D3E7682</string>
 		</dict>
 	</dict>
 </dict>

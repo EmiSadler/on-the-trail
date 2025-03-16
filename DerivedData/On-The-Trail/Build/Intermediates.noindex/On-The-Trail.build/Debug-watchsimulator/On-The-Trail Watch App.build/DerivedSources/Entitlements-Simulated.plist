@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>8HP34T64Y2.On-the-Trail.On-The-Trail.watchkitapp</string>
+	<string>8HP34T64Y2.com.EmilySadler.On-The-Trail.watchkitapp</string>
 	<key>com.apple.developer.healthkit</key>
 	<true/>
 	<key>com.apple.developer.healthkit.access</key>
