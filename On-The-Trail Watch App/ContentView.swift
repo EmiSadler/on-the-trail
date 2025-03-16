@@ -50,6 +50,7 @@ struct ContentView: View {
                     .frame(height: 2)
                     .foregroundColor(.gray)
                     .padding(.horizontal, 10)
+                    .padding(.bottom, -25)
                 
                 //                // Flag at the start (London)
                 //                Image("flag-uk")
@@ -90,13 +91,13 @@ struct ContentView: View {
             .font(.caption)
             .padding(.horizontal, 10)
             .frame(width: 200)
-            .offset(y: -10)
+            .offset(y: -15)
             
             // Distance info
             Text("\(Int(healthManager.totalDistance))km / \(Int(selectedRoute.distance))km")
                 .font(.subheadline)
                 .foregroundColor(.white)
-                .padding(.bottom, 5)
+                .padding(.bottom, -25)
             
             Text("Today's Steps: \(healthManager.totalSteps)")
                 .font(.subheadline)
