@@ -11,10 +11,11 @@ class HealthKitManager: ObservableObject {
     static let shared = HealthKitManager()
     private let healthStore = HKHealthStore()
     @Published var totalDistance: Double = 0.0
+    @Published var totalSteps: Int = 0
     private var timer: Timer?
     
     init() {
-        startUpdatingDistance()
+        startUpdatingData()
     }
 
     // Request authorization with a completion handler
@@ -31,7 +32,7 @@ class HealthKitManager: ObservableObject {
             DispatchQueue.main.async {
                 if success {
                     self.fetchWalkingDistance() // Fetch data immediately after authorization
-                    self.startUpdatingDistance()
+                    self.startUpdatingData()
                 }
                 completion(success, error) // Inform the caller of the result
             }
@@ -60,11 +61,33 @@ class HealthKitManager: ObservableObject {
         healthStore.execute(query)
     }
     
-    func startUpdatingDistance() {
+    func fetchDailySteps() {
+            let stepType = HKObjectType.quantityType(forIdentifier: .stepCount)!
+            let now = Date()
+            let startOfDay = Calendar.current.startOfDay(for: now)
+            let predicate = HKQuery.predicateForSamples(withStart: startOfDay, end: now, options: .strictEndDate)
+            
+            let query = HKStatisticsQuery(quantityType: stepType, quantitySamplePredicate: predicate, options: .cumulativeSum) { _, result, error in
+                guard let result = result, error == nil else {
+                    print("Error fetching step count: \(String(describing: error))")
+                    return
+                }
+                
+                let steps = result.sumQuantity()?.doubleValue(for: HKUnit.count()) ?? 0
+                DispatchQueue.main.async {
+                    self.totalSteps = Int(steps)
+                }
+            }
+            
+            healthStore.execute(query)
+        }
+    
+    func startUpdatingData() {
         //  To get walking distance every 30 secs
         timer?.invalidate()
         timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: true) { _ in
             self.fetchWalkingDistance()
+            self.fetchDailySteps()
         }
     }
 }

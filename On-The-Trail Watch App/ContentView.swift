@@ -10,12 +10,13 @@ import HealthKit
 import HealthKitUI
 
 struct ContentView: View {
-    @State private var totalDistance = ProgressManager.shared.getTotalDistance() // Total distance walked (cummulative)
-    @StateObject var healthManager = HealthKitManager.shared
+    @ObservedObject var healthManager = HealthKitManager.shared
     let selectedRoute: Route
     
+    @State private var totalDistance = ProgressManager.shared.getTotalDistance() // Total distance walked (cummulative)
+    
     var progress: Double {
-        min(totalDistance / selectedRoute.distance, 1.0)
+        min(healthManager.totalDistance / selectedRoute.distance, 1.0)
     }
     
     //Percentage complete
@@ -89,9 +90,15 @@ struct ContentView: View {
             .font(.caption)
             .padding(.horizontal, 10)
             .frame(width: 200)
+            .offset(y: -10)
             
             // Distance info
-            Text("\(Int(totalDistance))km / \(Int(selectedRoute.distance))km")
+            Text("\(Int(healthManager.totalDistance))km / \(Int(selectedRoute.distance))km")
+                .font(.subheadline)
+                .foregroundColor(.white)
+                .padding(.bottom, 5)
+            
+            Text("Today's Steps: \(healthManager.totalSteps)")
                 .font(.subheadline)
                 .foregroundColor(.white)
         }
@@ -105,6 +112,7 @@ struct ContentView: View {
                 if success {
                     print("HealthKit authorization granted")
                     HealthKitManager.shared.fetchWalkingDistance()
+                    HealthKitManager.shared.fetchDailySteps()
                 } else if let error = error {
                     print("HealthKit authorization failed: \(error.localizedDescription)")
                 } else {

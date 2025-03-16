@@ -6,6 +6,67 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>8BB8D9B3-A682-4C2B-B13E-7A50EFC996B0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-On-The-Trail Watch App-2025.03.16_09-51-27-+0000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>On-The-Trail project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>On-The-Trail Watch App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run On-The-Trail Watch App</string>
+			<key>timeStartedRecording</key>
+			<real>763811487.45741498</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run On-The-Trail Watch App</string>
+			<key>uniqueIdentifier</key>
+			<string>8BB8D9B3-A682-4C2B-B13E-7A50EFC996B0</string>
+		</dict>
 		<key>9C08FDE4-7AC4-4EEE-AA1D-DC1C2D3E7682</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>

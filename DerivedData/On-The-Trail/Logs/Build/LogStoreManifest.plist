@@ -6,6 +6,90 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>On-The-Trail project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>On-The-Trail Watch App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build On-The-Trail Watch App</string>
+			<key>timeStartedRecording</key>
+			<real>763812334.81890094</real>
+			<key>timeStoppedRecording</key>
+			<real>763812336.99571097</real>
+			<key>title</key>
+			<string>Build On-The-Trail Watch App</string>
+			<key>uniqueIdentifier</key>
+			<string>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE</string>
+		</dict>
+		<key>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>On-The-Trail project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>On-The-Trail Watch App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build On-The-Trail Watch App</string>
+			<key>timeStartedRecording</key>
+			<real>763811487.45771098</real>
+			<key>timeStoppedRecording</key>
+			<real>763811494.76527095</real>
+			<key>title</key>
+			<string>Build On-The-Trail Watch App</string>
+			<key>uniqueIdentifier</key>
+			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</string>
+		</dict>
 		<key>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF</key>
 		<dict>
 			<key>className</key>
