@@ -21,7 +21,8 @@ struct RouteSelectionView: View {
         Route(name: "Brussels - Luxembourg", distance: 187.0),
         Route(name: "Tallinn - Riga", distance: 279.0),
         Route(name: "Vilnius - Warsaw", distance: 389.0),
-        Route(name: "Budapest - Zagreb", distance: 299.0)
+        Route(name: "Budapest - Zagreb", distance: 299.0),
+        Route(name: "Testing - Debugging", distance: 3.0)
         
     ].sorted { $0.distance < $1.distance } // Sort shortest distance first
     

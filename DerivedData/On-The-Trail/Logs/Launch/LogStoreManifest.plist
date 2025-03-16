@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>01344E6F-EB92-4DD5-8641-67D0A4163EB4</key>
+		<key>06352051-72E4-45C5-B3E5-BC904A571133</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE</string>
+			<string>0F490155-CBD6-4B6E-885F-5B46C44A1FD2</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.16_10-05-34-+0000.xcresult</string>
+			<string>Run-On-The-Trail Watch App-2025.03.16_10-28-09-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -40,11 +40,11 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -59,18 +59,18 @@
 			<key>signature</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763812334.81876004</real>
+			<real>763813689.50601995</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>01344E6F-EB92-4DD5-8641-67D0A4163EB4</string>
+			<string>06352051-72E4-45C5-B3E5-BC904A571133</string>
 		</dict>
-		<key>06788F71-0CD3-436F-8384-9BA802B1AD19</key>
+		<key>AE8D1DEF-2FFC-47C3-8533-BA6E7D978040</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5E31AD56-6489-4B4E-B3FC-D88B018CA073</string>
+			<string>0A697F5D-85D8-40C4-BA0B-8A982715DD1F</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.16_10-10-03-+0000.xcresult</string>
+			<string>Run-On-The-Trail Watch App-2025.03.16_10-39-54-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763812603.77500701</real>
+			<real>763814394.31071496</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>06788F71-0CD3-436F-8384-9BA802B1AD19</string>
+			<string>AE8D1DEF-2FFC-47C3-8533-BA6E7D978040</string>
 		</dict>
-		<key>8BB8D9B3-A682-4C2B-B13E-7A50EFC996B0</key>
+		<key>F32CC78D-C469-47BF-91F7-26F0F60D6568</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</string>
+			<string>2F180BB2-CC67-472F-86EF-19747D2580B8</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,68 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.16_09-51-27-+0000.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>On-The-Trail project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>On-The-Trail Watch App</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>timeStartedRecording</key>
-			<real>763811487.45741498</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>uniqueIdentifier</key>
-			<string>8BB8D9B3-A682-4C2B-B13E-7A50EFC996B0</string>
-		</dict>
-		<key>9C08FDE4-7AC4-4EEE-AA1D-DC1C2D3E7682</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.15_14-31-52-+0000.xcresult</string>
+			<string>Run-On-The-Trail Watch App-2025.03.16_10-37-20-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -242,74 +181,13 @@
 			<key>signature</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763741912.33979404</real>
+			<real>763814240.13896</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>9C08FDE4-7AC4-4EEE-AA1D-DC1C2D3E7682</string>
-		</dict>
-		<key>B87F25CB-CE7C-453E-9B03-240331591CEA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7F5BAF7C-F33F-43D4-AB6D-BAFC65B31D9A</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-On-The-Trail Watch App-2025.03.16_10-08-20-+0000.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>On-The-Trail project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>On-The-Trail Watch App</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>timeStartedRecording</key>
-			<real>763812500.37904</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run On-The-Trail Watch App</string>
-			<key>uniqueIdentifier</key>
-			<string>B87F25CB-CE7C-453E-9B03-240331591CEA</string>
+			<string>F32CC78D-C469-47BF-91F7-26F0F60D6568</string>
 		</dict>
 	</dict>
 </dict>

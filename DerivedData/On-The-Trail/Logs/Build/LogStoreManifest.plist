@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE</key>
+		<key>0A697F5D-85D8-40C4-BA0B-8A982715DD1F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE.xcactivitylog</string>
+			<string>0A697F5D-85D8-40C4-BA0B-8A982715DD1F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763812334.81890094</real>
+			<real>763814394.31104505</real>
 			<key>timeStoppedRecording</key>
-			<real>763812336.99571097</real>
+			<real>763814396.82536101</real>
 			<key>title</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>3F9D6AEB-0DD8-4A60-BBB1-40BDCB4BA4DE</string>
+			<string>0A697F5D-85D8-40C4-BA0B-8A982715DD1F</string>
 		</dict>
-		<key>5E31AD56-6489-4B4E-B3FC-D88B018CA073</key>
+		<key>0F490155-CBD6-4B6E-885F-5B46C44A1FD2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,7 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5E31AD56-6489-4B4E-B3FC-D88B018CA073.xcactivitylog</string>
+			<string>0F490155-CBD6-4B6E-885F-5B46C44A1FD2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,15 +82,15 @@
 			<key>signature</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763812603.77530003</real>
+			<real>763813689.50634301</real>
 			<key>timeStoppedRecording</key>
-			<real>763812603.85579598</real>
+			<real>763813695.99588203</real>
 			<key>title</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>5E31AD56-6489-4B4E-B3FC-D88B018CA073</string>
+			<string>0F490155-CBD6-4B6E-885F-5B46C44A1FD2</string>
 		</dict>
-		<key>7F5BAF7C-F33F-43D4-AB6D-BAFC65B31D9A</key>
+		<key>2F180BB2-CC67-472F-86EF-19747D2580B8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7F5BAF7C-F33F-43D4-AB6D-BAFC65B31D9A.xcactivitylog</string>
+			<string>2F180BB2-CC67-472F-86EF-19747D2580B8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -124,97 +124,13 @@
 			<key>signature</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>timeStartedRecording</key>
-			<real>763812500.37927198</real>
+			<real>763814240.14324105</real>
 			<key>timeStoppedRecording</key>
-			<real>763812502.09274495</real>
+			<real>763814246.11193097</real>
 			<key>title</key>
 			<string>Build On-The-Trail Watch App</string>
 			<key>uniqueIdentifier</key>
-			<string>7F5BAF7C-F33F-43D4-AB6D-BAFC65B31D9A</string>
-		</dict>
-		<key>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>On-The-Trail project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>On-The-Trail Watch App</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build On-The-Trail Watch App</string>
-			<key>timeStartedRecording</key>
-			<real>763811487.45771098</real>
-			<key>timeStoppedRecording</key>
-			<real>763811494.76527095</real>
-			<key>title</key>
-			<string>Build On-The-Trail Watch App</string>
-			<key>uniqueIdentifier</key>
-			<string>A67E2C1E-C6F2-40CD-B7C3-54A6FD15BDCA</string>
-		</dict>
-		<key>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>On-The-Trail project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>On-The-Trail Watch App</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build On-The-Trail Watch App</string>
-			<key>timeStartedRecording</key>
-			<real>763741912.34037399</real>
-			<key>timeStoppedRecording</key>
-			<real>763741912.41365504</real>
-			<key>title</key>
-			<string>Build On-The-Trail Watch App</string>
-			<key>uniqueIdentifier</key>
-			<string>B1008DF1-85B8-45EC-B9C6-F26E11E2F5FF</string>
+			<string>2F180BB2-CC67-472F-86EF-19747D2580B8</string>
 		</dict>
 	</dict>
 </dict>
